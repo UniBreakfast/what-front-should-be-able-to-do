@@ -2,7 +2,7 @@ What should a Frontend Developer be able to do?
 
 * [ ] Read HTML
   * [ ] Understand markup structure
-  * [ ] Know semantic meaning of tags
+  * [ ] Know the semantic meaning of tags
   * [ ] Recognize and interpret attributes
 * [ ] Read CSS
   * [ ] Understand simple and complex selectors
@@ -10,7 +10,7 @@ What should a Frontend Developer be able to do?
   * [ ] Understand specificity
   * [ ] Understand CSS properties and values
   * [ ] Understand inheritance
-  * [ ] Understand box model, flex, grid layouts
+  * [ ] Understand box model, flex, and grid layouts
   * [ ] Understand interdependencies
   * [ ] Understand media queries  
   * [ ] Know Color Theory (RGB, HSL, CMYK, palettes)
@@ -19,9 +19,9 @@ What should a Frontend Developer be able to do?
 * [ ] Read JavaScript
   * [ ] Understand load order, interpretation order
   * [ ] Understand declarations and hoisting
-  * [ ] Understand scopes, closures and modularity
+  * [ ] Understand scopes, closures, and modularity
   * [ ] Know Data Types and Object Types
-  * [ ] Know standard functions, methods and properties
+  * [ ] Know standard functions, methods, and properties
   * [ ] Recognize data structures
   * [ ] Recognize loops, other iteration instruments
   * [ ] Read flow control (if, switch, try, catch)
@@ -31,10 +31,10 @@ What should a Frontend Developer be able to do?
   * [ ] Understand event propagation, delegation
   * [ ] Understand asynchronous execution, callbacks, promises
   * [ ] Understand client-server interactions
-  * [ ] Understand Regular Expressions (at least with Internet help)
+  * [ ] Understand Regular Expressions (at least with internet help)
   * [ ] Read Classes as well as legacy code
   * [ ] Understand Time handling (timeouts, intervals, dates)
-  * [ ] Use NPM and recognize most common npm packages
+  * [ ] Use NPM and recognize most common NPM packages
   * [ ] Persist data using LocalStorage or remote services
 * [ ] Read known and unknown preprocessors, templates
 * [ ] Read/navigate Git/GitHub repository and commit tree
@@ -46,7 +46,7 @@ What should a Frontend Developer be able to do?
 * [ ] Refactor as needed or give clear instructions to do so
 * [ ] Document own and others' code
 * [ ] Test code manually, read tests, ideally - write tests
-* [ ] Understand screen 2d geometry
+* [ ] Understand screen 2D geometry
 * [ ] Navigate the documentation
 * [ ] Master debug tools from console to breakpoints
 * [ ] Know around 30 common UI components
